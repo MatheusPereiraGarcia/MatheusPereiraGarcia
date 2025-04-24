@@ -1,4 +1,6 @@
 👋 Olá, sou Matheus Pereira Garcia!
+
+
 🔧 Desenvolvedor em ascensão, com foco em me tornar um dev júnior. Tenho experiência em JavaScript, PHP, HTML, CSS e Java. Estou sempre buscando aprender e me aprimorar nas áreas de desenvolvimento web e backend.
 
 📚 Jornada acadêmica: Sou formado em Técnico em Informática e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Durante a minha trajetória acadêmica, busquei trabalhar com diferentes tecnologias para expandir minhas habilidades e entender como posso criar soluções inovadoras e eficientes. Acredito que a prática constante é fundamental para crescer e oferecer o melhor trabalho possível.
